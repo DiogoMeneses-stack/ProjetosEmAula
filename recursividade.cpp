@@ -25,6 +25,6 @@ int main(int argc, char** argv) {
 	printf("\n Digite o valor numero: ");
 	inserir(numeros);
 	
-	printf(numeros);
+	printf("" + numeros);
 	return 0;
 }
